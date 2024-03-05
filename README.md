@@ -4,7 +4,7 @@ Soy un Desarrollador Full Stack junior interesado en hacer una carrera integral 
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **jonathanriffo7@gmail.com**
+- Puedes contactarme a través de mi sitio web: **[jonathanriffo.website](https://jonathanriffo.website/)**
 
 ### 🧑‍💻 Lenguajes de programación
 
